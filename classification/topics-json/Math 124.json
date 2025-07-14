@@ -1,0 +1,51 @@
+{
+    "Math 124_mid_1": {
+      "Limits": {
+        "description": "Limits describe the behavior of a function as the input approaches a particular value. This concept is fundamental for defining continuity and derivatives. Common limit rules include sum, product, quotient, and squeeze theorem.",
+        "keywords": ["limits", "continuity", "limit laws", "squeeze theorem", "$\\lim_{x \\to c} f(x)$", "$\\infty$"]
+      },
+      "Basic Derivative Rules": {
+        "description": "Basic rules for differentiating functions, including the power rule, product rule, and quotient rule. These help compute derivatives efficiently.",
+        "keywords": ["derivatives", "power rule", "product rule", "quotient rule", "$f'(x)$", "$\\frac{dy}{dx}$"]
+      },
+      "Parametric Equations": {
+        "description": "Parametric equations express the coordinates of points on a curve as functions of a parameter, usually denoted as $t$. Useful for describing motion and curves.",
+        "keywords": ["parametric equations", "curves", "parameter $t$", "motion", "$x(t)$", "$y(t)$"]
+      },
+      "Tangents and Velocity": {
+        "description": "Tangents represent the slope of a curve at a point, and velocity is the rate of change of position with respect to time. Both concepts rely on derivatives.",
+        "keywords": ["tangents", "velocity", "rate of change", "$f'(x)$", "slope"]
+      },
+      "Derivative Function (Limit Definition)": {
+        "description": "The derivative can be defined as the limit of the difference quotient: $f'(x) = \\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$. This formal definition is used to calculate derivatives.",
+        "keywords": ["limit definition of derivative", "difference quotient","$f'(x)$", "$\\lim_{h \\to 0}$"]
+      },
+      "Continuity": {
+        "description": "A function is continuous if it has no breaks, jumps, or holes in its graph. Mathematically, a function is continuous at $x = c$ if $\\lim_{x \\to c} f(x) = f(c)$.",
+        "keywords": ["continuity", "limits", "no breaks", "continuous function", "$f(x)$", "$\\lim_{x \\to c}$"]
+      }
+    },
+    "Math 124_mid_2": {
+      "Related Rates": {
+        "description": "Related rates problems involve finding the rate at which one quantity changes with respect to another, using the chain rule for differentiation. Solving real-world problems.",
+        "keywords": ["related rates", "chain rule", "rate of change", "$\\frac{dy}{dt}$", "$\\frac{dx}{dt}$"]
+      },
+      "Linear Approximation": {
+        "description": "Linear approximation uses the tangent line at a point to estimate the value of a function near that point, based on $f(x) \\approx f(a) + f'(a)(x - a)$.",
+        "keywords": ["linear approximation", "tangent line", "approximation", "$f(x) \\approx f(a) + f'(a)(x - a)$", "derivatives"]
+      },
+      "Maximum and Minimum Values": {
+        "description": "Maximum and minimum values of a function occur at critical points where the derivative is zero or undefined. These points can be found using the first and second derivative tests.",
+        "keywords": ["maximum values", "minimum values", "critical points", "derivatives", "first derivative test", "second derivative test", "Optimization"]
+      },
+      "Parameterized Equations and Curves": {
+        "description": "Parametric equations define curves by expressing coordinates as functions of a parameter. These equations are useful for analyzing the motion of objects along paths.",
+        "keywords": ["parametric equations", "curves", "parameter $t$", "motion", "$x(t)$", "$y(t)$"]
+      },
+      "Further Derivative Rules": {
+        "description": "Advanced derivative rules such as the chain rule and implicit differentiation. These rules allow for the differentiation of more complex functions.",
+        "keywords": ["chain rule", "implicit differentiation", "derivatives", "$f'(x)$", "$\\frac{dy}{dx}$"]
+      }
+    }
+  }
+  

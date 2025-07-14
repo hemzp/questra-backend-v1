@@ -1,0 +1,58 @@
+{
+  "Math 125_mid_1": {
+    "Approximations": {
+      "description": "Methods for approximating the area under a curve using sums, such as Riemann sums. These sums approximate the integral by breaking the area into rectangles and calculating the sum of their areas.",
+      "keywords": ["Riemann sums", "Simposons rule" , "trapezoidal rule", "Midpoint rule", "area approximation", "rectangles under curve", "error bounds", "$\\sum$ (sum notation)", "$\\Delta x$"]
+    },
+    "Fundamental Theorem of Calculus": {
+      "description": "A theorem that connects differentiation and integration, showing that integration is the reverse process of differentiation. The relationship is expressed as $F(b) - F(a)$ where $F$ is the antiderivative.",
+      "keywords": ["fundamental theorem of calculus", "integration", "differentiation", "$F'(x)$", "$\\int_a^b f(x)dx$"]
+    },
+    "Techniques of Integration": {
+      "description": "Various methods for solving integrals, such as substitution and integration by parts. This often includes notation like $\\int$ or special symbols like $|$ for absolute values.",
+      "keywords": ["substitution", "integration by parts", "indefinite integrals", "constant of integration", "definite integrals", "$\\int$", "$|$"]
+    },
+    "Areas between Curves": {
+      "description": "Calculating the area between two curves by integrating the difference between them: $\\int_a^b [f(x) - g(x)] dx$.",
+      "keywords": ["area between curves", "integration", "difference of functions", "$f(x) - g(x)$", "$\\int$"]
+    },
+    "Volumes": {
+      "description": "Finding volumes of solids of revolution by slicing them into thin cross-sections and integrating, expressed as $\\int_a^b \\pi [f(x)]^2 dx$.",
+      "keywords": ["volumes by slicing", "solids of revolution", "cross-sections", "$\\pi$", "$\\int_a^b \\pi [f(x)]^2 dx$"]
+    }
+  },
+  "Math 125_mid_2": {
+    "Work and Force": {
+      "description": "Using integration to calculate the work done by a force, typically represented as $W = \\int F(x) dx$.",
+      "keywords": ["applications of integration", "work", "force", "$\\int F(x) dx$"]
+    },
+    "Average Value": {
+      "description": "The average value of a function over an interval is given by $\\frac{1}{b-a}\\int_a^b f(x)dx$, representing the mean height of the graph of the function over that interval.",
+      "keywords": ["average value", "mean value", "function over interval", "$\\frac{1}{b-a}\\int_a^b f(x)dx$"]
+    },
+    "Further Techniques of Integration": {
+      "description": "Advanced methods of integration, including trigonometric substitution, partial fraction decomposition, and integrals involving trigonometric functions like $\\sin$, $\\cos$, and $\\tan$. Common symbols include $\\int$ and trigonometric functions.",
+      "keywords": ["advanced integration", "trigonometric substitution", "partial fraction decomposition", "$\\int$", "$\\sin$", "$\\cos$", "$\\tan$"]
+    },
+    "Areas between Curves": {
+      "description": "Calculating the area between two curves by integrating the difference between them: $\\int_a^b [f(x) - g(x)] dx$.",
+      "keywords": ["area between curves", "integration", "difference of functions", "$f(x) - g(x)$", "$\\int$"]
+    },
+    "Volumes": {
+      "description": "Finding volumes of solids of revolution by slicing them into thin cross-sections and integrating, expressed as $\\int_a^b \\pi [f(x)]^2 dx$.",
+      "keywords": ["volumes by slicing", "solids of revolution", "cross-sections", "$\\pi$", "$\\int_a^b \\pi [f(x)]^2 dx$"]
+    },
+    "Arc Length": {
+      "description": "Calculating the length of a curve by integrating $\\int_a^b \\sqrt{1 + (f'(x))^2}dx$, representing the sum of infinitesimal line segments along the curve.",
+      "keywords": ["arc length", "curve length", "$\\int_a^b \\sqrt{1 + (f'(x))^2}dx$", "parametric equations"]
+    },
+    "Centre of Mass": {
+      "description": "Finding the center of mass of a region by integrating the moments and mass density across the object. Represented mathematically as $\\frac{1}{M}\\int x dm$.",
+      "keywords": ["center of mass", "density", "distribution", "$\\int$", "$dm$", "$M$"]
+    },
+    "Differential Equations": {
+      "description": "Equations involving derivatives that describe how a quantity changes with respect to another variable, often represented as $\\frac{dy}{dx} = f(x)$. Applications include population growth models.",
+      "keywords": ["differential equations", "derivatives", "rate of change", "population growth", "$\\frac{dy}{dx}$", "$f(x)$"]
+    }
+  }
+}

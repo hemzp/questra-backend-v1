@@ -1,0 +1,50 @@
+{
+  "Math 126_mid_1": {
+    "Vector Operations (Dot, Cross, Projections)": {
+      "description": "Operations involving vectors in three-dimensional space, including calculating dot products, cross products, and projecting one vector onto another. These are fundamental tools in vector calculus and physics.",
+      "keywords": ["dot product", "cross product", "vector projection", "$\\mathbf{a} \\cdot \\mathbf{b}$", "$\\mathbf{a} \\times \\mathbf{b}$", "orthogonal vectors", "angle between vectors"]
+    },
+    "Lines and Planes": {
+      "description": "Study of equations that define lines and planes in 3D space. Involves finding the parametric equation of a line, and normal vectors to planes, and determining intersections or angles between planes.",
+      "keywords": ["parametric equations", "equation of a plane", "normal vector", "$\\mathbf{r}(t)$", "$\\mathbf{n} \\cdot (\\mathbf{r} - \\mathbf{r}_0) = 0$", "intersection of planes"]
+    },
+    "3D Shapes": {
+      "description": "Exploration of three-dimensional geometric shapes like spheres, cylinders, and cones, including how to describe their properties using equations in 3D space.",
+      "keywords": ["spheres", "cylinders", "cones", "geometric shapes", "3D objects", "$x^2 + y^2 + z^2 = r^2$", "cylindrical coordinates", "spherical coordinates"]
+    },
+    "Vector Functions": {
+      "description": "Functions that output vectors, particularly as a function of time or a parameter. Applications include the study of curves in space, and finding derivatives and integrals of vector-valued functions.",
+      "keywords": ["vector-valued functions", "curves in space", "derivatives of vector functions", "$\\mathbf{r}(t)$", "integrals of vector functions", "parametric curves", "arc length"]
+    },
+    "Velocity, Speed, Acceleration": {
+      "description": "Understanding motion through vector functions, focusing on velocity as the derivative of position, speed as the magnitude of velocity, and acceleration as the derivative of velocity.",
+      "keywords": ["velocity", "speed", "acceleration", "$\\mathbf{v}(t) = \\frac{d\\mathbf{r}(t)}{dt}$", "$\\mathbf{a}(t) = \\frac{d\\mathbf{v}(t)}{dt}$", "magnitude of velocity", "tangential and normal acceleration"]
+    }
+  },
+  "Math 126_mid_2": {
+    "Velocity, Speed, Acceleration": {
+      "description": "Further exploration of motion in space, using vector functions to describe and analyze velocity, speed, and acceleration over time.",
+      "keywords": ["velocity", "acceleration", "$\\mathbf{r}(t)$", "$\\mathbf{v}(t)$", "speed", "tangential motion", "curved paths"]
+    },
+    "Partial Derivatives and Tangent Planes": {
+      "description": "The concept of partial derivatives applied to multivariable functions, and using these to find equations of tangent planes to surfaces at a point.",
+      "keywords": ["partial derivatives", "tangent planes", "$\\frac{\\partial f}{\\partial x}$", "$\\frac{\\partial f}{\\partial y}$", "gradient vector", "multivariable functions", "tangent plane equation"]
+    },
+    "Optimization": {
+      "description": "Techniques for finding maximum and minimum values of functions with several variables, including the use of Lagrange multipliers for constrained optimization problems.",
+      "keywords": ["optimization", "maxima and minima", "$\\nabla f = 0$", "critical points", "multivariable calculus"]
+    },
+    "Double Integrals": {
+      "description": "Techniques for evaluating double integrals, both in Cartesian and polar coordinates, to calculate areas and volumes over regions in the plane or space.",
+      "keywords": ["double integrals", "area", "volume", "$\\int\\int_D f(x, y) dA$", "polar coordinates", "region of integration"]
+    },
+    "Application of Double Integrals": {
+      "description": "Using double integrals in practical applications, including calculating areas, volumes, and average values, as well as in physics for mass and moment calculations.",
+      "keywords": ["applications of double integrals", "area calculation", "volume calculation", "average value", "centroid", "$\\int\\int f(x, y) dx dy$"]
+    },
+    "Centre of Mass": {
+      "description": "Finding the center of mass for an object using double integrals, by integrating mass distributions over a region or a volume.",
+      "keywords": ["center of mass", "$\\int\\int \\rho(x, y) dx dy$", "mass distribution", "moment of inertia", "centroid", "center of gravity"]
+    }
+  }
+}
